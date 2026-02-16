@@ -1,0 +1,6 @@
+2026-02-16 11:44:25,319 - INFO - X_train columns : Index(['Age', 'Height', 'Weight', 'Duration', 'Heart_Rate', 'Body_Temp'], dtype='object') --> (12000, 6)
+2026-02-16 11:44:25,319 - INFO - X_test columns  : Index(['Age', 'Height', 'Weight', 'Duration', 'Heart_Rate', 'Body_Temp'], dtype='object') --> (3000, 6)
+2026-02-16 11:44:32,860 - INFO - After transform (12000, 6)
+2026-02-16 11:44:32,860 - INFO - After transform (3000, 6)
+2026-02-16 11:44:38,752 - INFO - Index(['Age', 'Height', 'Weight', 'Duration', 'Heart_Rate', 'Body_Temp'], dtype='object') -> (12000, 6)
+2026-02-16 11:44:38,752 - INFO - Index(['Age', 'Height', 'Weight', 'Duration', 'Heart_Rate', 'Body_Temp'], dtype='object') -> (3000, 6)
